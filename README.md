@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi this is Leo
+![Leo copy](https://github.com/user-attachments/assets/96b7e9d8-a61f-478f-8c02-5b704d21201e)
 
-<!--
-**Leovigildo69/Leovigildo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mexican Lost in **Berlin**
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
