@@ -16,6 +16,13 @@
 | English | Proficient |
 | German | in progressss |
 
+**Fun facts**
 
-### Fun facts:
 Like to play Pool & Tenis
+
+```sh
+You can contact me:
+leolegorreta@gmail.com
+```
+
+
