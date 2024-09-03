@@ -3,14 +3,19 @@
 
 I am a Mexican Lost in **Berlin**
 
+I’m currently learning how to write with **Markdown.**
+- Recently I started a **_Ux/Ui WebDesign_** weiterbildung.
+
+| Background |  |
+| ------ | ------ |
+| Graphic Designer |  |
+
+| Languajes |  |
+| ------ | ------ |
+| Spanish | Mother Languaje |
+| English | Proficient |
+| German | in progressss |
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
