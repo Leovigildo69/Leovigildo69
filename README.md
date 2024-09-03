@@ -1,9 +1,9 @@
 ## Hi this is Leo
 ![Leo copy](https://github.com/user-attachments/assets/96b7e9d8-a61f-478f-8c02-5b704d21201e)
 
-I am a Mexican Lost in **Berlin**
+- I am a Mexican Lost in **Berlin**
 
-I’m currently learning how to write with **Markdown.**
+- I’m currently learning how to write with **Markdown.**
 - Recently I started a **_Ux/Ui WebDesign_** weiterbildung.
 
 | Background |  |
@@ -17,5 +17,5 @@ I’m currently learning how to write with **Markdown.**
 | German | in progressss |
 
 
-- ⚡ Fun fact: ...
--->
+### Fun facts:
+Like to play Pool & Tenis
