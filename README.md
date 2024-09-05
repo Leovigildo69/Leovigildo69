@@ -6,9 +6,9 @@
 - I’m currently learning how to write with **Markdown.**
 - Recently I started a **_Ux/Ui WebDesign_** weiterbildung.
 
-| Background |  |
-| ------ | ------ |
-| Graphic Designer |  |
+| Background |
+| ------ |
+| Graphic Designer |
 
 | Languajes |  |
 | ------ | ------ |
